@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Full-Stack Developer from India, focused on building dynamic and user-friendly web applications.</h3>
+<h3 align="center">A passionate Full-Stack Developer from India, specializing in dynamic and user-friendly web applications.</h3>
 
 - 📫 How to reach me **iamadityadevpro@gmail.com**
 
